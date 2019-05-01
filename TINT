@@ -1,0 +1,18 @@
+.post{}
+
+#collectionHolder ul {
+display: none;
+}
+ 
+ 
+html, body { background-color: black !important; }
+#hypeHolder { display: none !important; }
+#display { width: 1920px; height: 1080px; }
+#display iframe { border: 0; width: 698px; height: 1080px; margin: 0 50px; float: left; }
+#display iframe:first-child { margin-left: 661px; }
+#display iframe:last-child { margin-right: 0; }
+</style>
+<div id="display">
+    <iframe src="https://www.tintup.com/t/event_filament_1522362115"></iframe>
+</div>
+<style>
